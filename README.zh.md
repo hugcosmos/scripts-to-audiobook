@@ -5,8 +5,6 @@
 
 将格式化剧本转换为多角色有声书，支持 **多种 TTS 提供商** —— 包括 Microsoft Edge TTS、ElevenLabs、科大讯飞和百度语音。
 
-> 🌐 **语言**: [English](README.md) | [中文](README.zh.md)
-
 ![Dark Mode UI](docs/screenshot-dark.jpg)
 
 ## 功能特性
