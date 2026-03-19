@@ -5,7 +5,7 @@
 
 Convert formatted scripts into multi-character audiobooks using **multiple TTS providers** — including Microsoft Edge TTS, ElevenLabs, iFlytek (科大讯飞), and Baidu (百度语音).
 
-![Dark Mode UI](docs/screenshot-dark.jpg)
+![Dark Mode UI](docs/screenshot-dark.png)
 
 ## Features
 
