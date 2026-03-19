@@ -1,0 +1,37 @@
+{
+  "total": 322,
+  "english": 47,
+  "chinese": 14,
+  "by_gender": {
+    "Female": 163,
+    "Male": 159
+  },
+  "by_age_bucket": {
+    "child": 1,
+    "adult": 321,
+    "senior": 0
+  },
+  "en_locales": [
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-HK",
+    "en-IE",
+    "en-IN",
+    "en-KE",
+    "en-NG",
+    "en-NZ",
+    "en-PH",
+    "en-SG",
+    "en-TZ",
+    "en-US",
+    "en-ZA"
+  ],
+  "zh_locales": [
+    "zh-CN",
+    "zh-CN-liaoning",
+    "zh-CN-shaanxi",
+    "zh-HK",
+    "zh-TW"
+  ]
+}

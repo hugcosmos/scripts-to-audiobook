@@ -1,0 +1,4 @@
+Narrator: English, American, female, adult
+Alice: English, American, female, adult
+Marcus: English, British, male, adult
+Elder: English, British, male, senior

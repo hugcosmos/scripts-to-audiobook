@@ -1,0 +1,494 @@
+[
+  {
+    "voice_id": "zh-HK-HiuGaaiNeural",
+    "short_name": "zh-HK-HiuGaaiNeural",
+    "display_name": "HiuGaai",
+    "full_name": "Microsoft HiuGaai Online (Natural) - Chinese (Cantonese Traditional)",
+    "locale": "zh-HK",
+    "base_language": "Chinese",
+    "accent_label": "Cantonese",
+    "region": "Hong Kong",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-HK-HiuMaanNeural",
+    "short_name": "zh-HK-HiuMaanNeural",
+    "display_name": "HiuMaan",
+    "full_name": "Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong SAR)",
+    "locale": "zh-HK",
+    "base_language": "Chinese",
+    "accent_label": "Cantonese",
+    "region": "Hong Kong",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-HK-WanLungNeural",
+    "short_name": "zh-HK-WanLungNeural",
+    "display_name": "WanLung",
+    "full_name": "Microsoft WanLung Online (Natural) - Chinese (Hong Kong SAR)",
+    "locale": "zh-HK",
+    "base_language": "Chinese",
+    "accent_label": "Cantonese",
+    "region": "Hong Kong",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-XiaoxiaoNeural",
+    "short_name": "zh-CN-XiaoxiaoNeural",
+    "display_name": "Xiaoxiao",
+    "full_name": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "accent_label": "Mainland Mandarin",
+    "region": "China",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Warm"
+    ],
+    "personality_tags": [
+      "warm"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.7,
+    "recommended_tags": [
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-XiaoyiNeural",
+    "short_name": "zh-CN-XiaoyiNeural",
+    "display_name": "Xiaoyi",
+    "full_name": "Microsoft Xiaoyi Online (Natural) - Chinese (Mainland)",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "accent_label": "Mainland Mandarin",
+    "region": "China",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "Cartoon",
+      "Novel"
+    ],
+    "personalities": [
+      "Lively"
+    ],
+    "personality_tags": [
+      "lively"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-YunjianNeural",
+    "short_name": "zh-CN-YunjianNeural",
+    "display_name": "Yunjian",
+    "full_name": "Microsoft Yunjian Online (Natural) - Chinese (Mainland)",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "accent_label": "Mainland Mandarin",
+    "region": "China",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "Sports",
+      " Novel"
+    ],
+    "personalities": [
+      "Passion"
+    ],
+    "personality_tags": [
+      "passion"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-YunxiNeural",
+    "short_name": "zh-CN-YunxiNeural",
+    "display_name": "Yunxi",
+    "full_name": "Microsoft Yunxi Online (Natural) - Chinese (Mainland)",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "accent_label": "Mainland Mandarin",
+    "region": "China",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "Novel"
+    ],
+    "personalities": [
+      "Lively",
+      "Sunshine"
+    ],
+    "personality_tags": [
+      "sunshine",
+      "lively"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.7,
+    "recommended_tags": [
+      "male",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-YunxiaNeural",
+    "short_name": "zh-CN-YunxiaNeural",
+    "display_name": "Yunxia",
+    "full_name": "Microsoft Yunxia Online (Natural) - Chinese (Mainland)",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "accent_label": "Mainland Mandarin",
+    "region": "China",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "Cartoon",
+      "Novel"
+    ],
+    "personalities": [
+      "Cute"
+    ],
+    "personality_tags": [
+      "cute"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-YunyangNeural",
+    "short_name": "zh-CN-YunyangNeural",
+    "display_name": "Yunyang",
+    "full_name": "Microsoft Yunyang Online (Natural) - Chinese (Mainland)",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "accent_label": "Mainland Mandarin",
+    "region": "China",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "News"
+    ],
+    "personalities": [
+      "Professional",
+      "Reliable"
+    ],
+    "personality_tags": [
+      "professional",
+      "reliable"
+    ],
+    "narrator_fit_score": 0.6,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "professional",
+      "male",
+      "chinese",
+      "corporate"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-liaoning-XiaobeiNeural",
+    "short_name": "zh-CN-liaoning-XiaobeiNeural",
+    "display_name": "liaoning-Xiaobei",
+    "full_name": "Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin)",
+    "locale": "zh-CN-liaoning",
+    "base_language": "Chinese",
+    "accent_label": "Northeastern Dialect",
+    "region": "Liaoning, China",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "Dialect"
+    ],
+    "personalities": [
+      "Humorous"
+    ],
+    "personality_tags": [
+      "humorous"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-TW-HsiaoChenNeural",
+    "short_name": "zh-TW-HsiaoChenNeural",
+    "display_name": "HsiaoChen",
+    "full_name": "Microsoft HsiaoChen Online (Natural) - Chinese (Taiwan)",
+    "locale": "zh-TW",
+    "base_language": "Chinese",
+    "accent_label": "Taiwan Mandarin",
+    "region": "Taiwan",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-TW-YunJheNeural",
+    "short_name": "zh-TW-YunJheNeural",
+    "display_name": "YunJhe",
+    "full_name": "Microsoft YunJhe Online (Natural) - Chinese (Taiwan)",
+    "locale": "zh-TW",
+    "base_language": "Chinese",
+    "accent_label": "Taiwan Mandarin",
+    "region": "Taiwan",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-TW-HsiaoYuNeural",
+    "short_name": "zh-TW-HsiaoYuNeural",
+    "display_name": "HsiaoYu",
+    "full_name": "Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin)",
+    "locale": "zh-TW",
+    "base_language": "Chinese",
+    "accent_label": "Taiwan Mandarin",
+    "region": "Taiwan",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "zh-CN-shaanxi-XiaoniNeural",
+    "short_name": "zh-CN-shaanxi-XiaoniNeural",
+    "display_name": "shaanxi-Xiaoni",
+    "full_name": "Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi)",
+    "locale": "zh-CN-shaanxi",
+    "base_language": "Chinese",
+    "accent_label": "Shaanxi Dialect",
+    "region": "Shaanxi, China",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "Dialect"
+    ],
+    "personalities": [
+      "Bright"
+    ],
+    "personality_tags": [
+      "bright"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "female",
+      "chinese"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  }
+]

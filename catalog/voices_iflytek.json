@@ -1,0 +1,173 @@
+[
+  {
+    "voice_id": "x4_lingxiaowan_en",
+    "display_name": "聆小婉（普通话，女）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.9,
+    "narrator_fit_score": 0.85,
+    "dialogue_fit_score": 0.9,
+    "preview_url": null,
+    "labels": [
+      "普通话",
+      "女声",
+      "特色"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x3_linlin",
+    "display_name": "林林（闽南语，女）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.88,
+    "narrator_fit_score": 0.8,
+    "dialogue_fit_score": 0.85,
+    "preview_url": null,
+    "labels": [
+      "闽南语",
+      "女声",
+      "方言"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x4_yezi",
+    "display_name": "讯飞小露（普通话，女）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.9,
+    "narrator_fit_score": 0.85,
+    "dialogue_fit_score": 0.9,
+    "preview_url": null,
+    "labels": [
+      "普通话",
+      "女声",
+      "标准"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x3_xiaoyue",
+    "display_name": "小月（香港粤语，女）",
+    "language": "zh",
+    "locale": "zh-HK",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.88,
+    "narrator_fit_score": 0.8,
+    "dialogue_fit_score": 0.85,
+    "preview_url": null,
+    "labels": [
+      "粤语",
+      "女声",
+      "香港"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x2_xiaorong",
+    "display_name": "讯飞小蓉（四川话，女）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.88,
+    "narrator_fit_score": 0.8,
+    "dialogue_fit_score": 0.85,
+    "preview_url": null,
+    "labels": [
+      "四川话",
+      "女声",
+      "方言"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x4_xiaobei",
+    "display_name": "小北（东北话，女）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.88,
+    "narrator_fit_score": 0.8,
+    "dialogue_fit_score": 0.85,
+    "preview_url": null,
+    "labels": [
+      "东北话",
+      "女声",
+      "方言"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x4_lingxiaoying_em_v2",
+    "display_name": "聆小璎（普通话，女，情感增强）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Female",
+    "quality_score": 0.92,
+    "narrator_fit_score": 0.88,
+    "dialogue_fit_score": 0.92,
+    "preview_url": null,
+    "labels": [
+      "普通话",
+      "女声",
+      "情感增强"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x4_lingbosong_bad_talk",
+    "display_name": "聆伯松（反派老人，普通话，男）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Male",
+    "quality_score": 0.9,
+    "narrator_fit_score": 0.85,
+    "dialogue_fit_score": 0.9,
+    "preview_url": null,
+    "labels": [
+      "普通话",
+      "男声",
+      "反派",
+      "老人"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x4_lingbosong",
+    "display_name": "聆伯松（普通话，男）",
+    "language": "zh",
+    "locale": "zh-CN",
+    "base_language": "Chinese",
+    "gender": "Male",
+    "quality_score": 0.9,
+    "narrator_fit_score": 0.88,
+    "dialogue_fit_score": 0.85,
+    "preview_url": null,
+    "labels": [
+      "普通话",
+      "男声",
+      "成熟"
+    ],
+    "provider": "iflytek"
+  },
+  {
+    "voice_id": "x4_lingxiaowan_boy",
+    "display_name": "徐小包（男孩）",
+    "language": "zh",
+    "gender": "Male",
+    "provider": "iflytek",
+    "base_language": "Chinese"
+  }
+]

@@ -1,0 +1,92 @@
+[
+        {
+            "voice_id": "MF3mGyEYCl7XYWbV9V6O",
+            "display_name": "Elli",
+            "language": "en",
+            "locale": "en-US",
+            "base_language": "English",
+            "gender": "Female",
+            "age_bucket": "adult",
+            "quality_score": 0.85,
+            "narrator_fit_score": 0.82,
+            "dialogue_fit_score": 0.85,
+            "preview_url": null,
+            "labels": [
+                "warm",
+                "grandma"
+            ],
+            "provider": "elevenlabs"
+        },
+        {
+            "voice_id": "ErXwobaYiN019PkySvjV",
+            "display_name": "Antoni",
+            "language": "en",
+            "locale": "en-US",
+            "base_language": "English",
+            "gender": "Male",
+            "age_bucket": "adult",
+            "quality_score": 0.87,
+            "narrator_fit_score": 0.85,
+            "dialogue_fit_score": 0.88,
+            "preview_url": null,
+            "labels": [
+                "well-rounded",
+                "clear"
+            ],
+            "provider": "elevenlabs"
+        },
+        {
+            "voice_id": "EXAVITQu4vr4xnSDxMaL",
+            "display_name": "Bella",
+            "language": "en",
+            "locale": "en-US",
+            "base_language": "English",
+            "gender": "Female",
+            "age_bucket": "adult",
+            "quality_score": 0.9,
+            "narrator_fit_score": 0.88,
+            "dialogue_fit_score": 0.85,
+            "preview_url": null,
+            "labels": [
+                "calm",
+                "soft"
+            ],
+            "provider": "elevenlabs"
+        },
+        {
+            "voice_id": "AZnzlk1XvdvUeBnXmlld",
+            "display_name": "Domi",
+            "language": "en",
+            "locale": "en-US",
+            "base_language": "English",
+            "gender": "Female",
+            "age_bucket": "adult",
+            "quality_score": 0.88,
+            "narrator_fit_score": 0.8,
+            "dialogue_fit_score": 0.88,
+            "preview_url": null,
+            "labels": [
+                "strong",
+                "energetic"
+            ],
+            "provider": "elevenlabs"
+        },
+        {
+            "voice_id": "21m00Tcm4TlvDq8ikWAM",
+            "display_name": "Rachel",
+            "language": "en",
+            "locale": "en-US",
+            "base_language": "English",
+            "gender": "Female",
+            "age_bucket": "adult",
+            "quality_score": 0.9,
+            "narrator_fit_score": 0.85,
+            "dialogue_fit_score": 0.9,
+            "preview_url": null,
+            "labels": [
+                "conversational",
+                "friendly"
+            ],
+            "provider": "elevenlabs"
+        }
+    ]

@@ -1,0 +1,1793 @@
+[
+  {
+    "voice_id": "en-AU-WilliamMultilingualNeural",
+    "short_name": "en-AU-WilliamMultilingualNeural",
+    "display_name": "WilliamMultilingual",
+    "full_name": "Microsoft WilliamMultilingual Online (Natural) - English (Australia)",
+    "locale": "en-AU",
+    "base_language": "English",
+    "accent_label": "Australian",
+    "region": "Australia",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.85,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-AU-NatashaNeural",
+    "short_name": "en-AU-NatashaNeural",
+    "display_name": "Natasha",
+    "full_name": "Microsoft Natasha Online (Natural) - English (Australia)",
+    "locale": "en-AU",
+    "base_language": "English",
+    "accent_label": "Australian",
+    "region": "Australia",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-CA-ClaraNeural",
+    "short_name": "en-CA-ClaraNeural",
+    "display_name": "Clara",
+    "full_name": "Microsoft Clara Online (Natural) - English (Canada)",
+    "locale": "en-CA",
+    "base_language": "English",
+    "accent_label": "Canadian",
+    "region": "Canada",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-CA-LiamNeural",
+    "short_name": "en-CA-LiamNeural",
+    "display_name": "Liam",
+    "full_name": "Microsoft Liam Online (Natural) - English (Canada)",
+    "locale": "en-CA",
+    "base_language": "English",
+    "accent_label": "Canadian",
+    "region": "Canada",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-HK-YanNeural",
+    "short_name": "en-HK-YanNeural",
+    "display_name": "Yan",
+    "full_name": "Microsoft Yan Online (Natural) - English (Hong Kong SAR)",
+    "locale": "en-HK",
+    "base_language": "English",
+    "accent_label": "Hong Kong",
+    "region": "Hong Kong",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-HK-SamNeural",
+    "short_name": "en-HK-SamNeural",
+    "display_name": "Sam",
+    "full_name": "Microsoft Sam Online (Natural) - English (Hongkong)",
+    "locale": "en-HK",
+    "base_language": "English",
+    "accent_label": "Hong Kong",
+    "region": "Hong Kong",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-IN-NeerjaExpressiveNeural",
+    "short_name": "en-IN-NeerjaExpressiveNeural",
+    "display_name": "NeerjaExpressive",
+    "full_name": "Microsoft Neerja Online (Natural) - English (India) (Preview)",
+    "locale": "en-IN",
+    "base_language": "English",
+    "accent_label": "Indian",
+    "region": "India",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-IN-NeerjaNeural",
+    "short_name": "en-IN-NeerjaNeural",
+    "display_name": "Neerja",
+    "full_name": "Microsoft Neerja Online (Natural) - English (India)",
+    "locale": "en-IN",
+    "base_language": "English",
+    "accent_label": "Indian",
+    "region": "India",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-IN-PrabhatNeural",
+    "short_name": "en-IN-PrabhatNeural",
+    "display_name": "Prabhat",
+    "full_name": "Microsoft Prabhat Online (Natural) - English (India)",
+    "locale": "en-IN",
+    "base_language": "English",
+    "accent_label": "Indian",
+    "region": "India",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-IE-ConnorNeural",
+    "short_name": "en-IE-ConnorNeural",
+    "display_name": "Connor",
+    "full_name": "Microsoft Connor Online (Natural) - English (Ireland)",
+    "locale": "en-IE",
+    "base_language": "English",
+    "accent_label": "Irish",
+    "region": "Ireland",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-IE-EmilyNeural",
+    "short_name": "en-IE-EmilyNeural",
+    "display_name": "Emily",
+    "full_name": "Microsoft Emily Online (Natural) - English (Ireland)",
+    "locale": "en-IE",
+    "base_language": "English",
+    "accent_label": "Irish",
+    "region": "Ireland",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-KE-AsiliaNeural",
+    "short_name": "en-KE-AsiliaNeural",
+    "display_name": "Asilia",
+    "full_name": "Microsoft Asilia Online (Natural) - English (Kenya)",
+    "locale": "en-KE",
+    "base_language": "English",
+    "accent_label": "Kenyan",
+    "region": "Kenya",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-KE-ChilembaNeural",
+    "short_name": "en-KE-ChilembaNeural",
+    "display_name": "Chilemba",
+    "full_name": "Microsoft Chilemba Online (Natural) - English (Kenya)",
+    "locale": "en-KE",
+    "base_language": "English",
+    "accent_label": "Kenyan",
+    "region": "Kenya",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-NZ-MitchellNeural",
+    "short_name": "en-NZ-MitchellNeural",
+    "display_name": "Mitchell",
+    "full_name": "Microsoft Mitchell Online (Natural) - English (New Zealand)",
+    "locale": "en-NZ",
+    "base_language": "English",
+    "accent_label": "New Zealand",
+    "region": "New Zealand",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-NZ-MollyNeural",
+    "short_name": "en-NZ-MollyNeural",
+    "display_name": "Molly",
+    "full_name": "Microsoft Molly Online (Natural) - English (New Zealand)",
+    "locale": "en-NZ",
+    "base_language": "English",
+    "accent_label": "New Zealand",
+    "region": "New Zealand",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-NG-AbeoNeural",
+    "short_name": "en-NG-AbeoNeural",
+    "display_name": "Abeo",
+    "full_name": "Microsoft Abeo Online (Natural) - English (Nigeria)",
+    "locale": "en-NG",
+    "base_language": "English",
+    "accent_label": "Nigerian",
+    "region": "Nigeria",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-NG-EzinneNeural",
+    "short_name": "en-NG-EzinneNeural",
+    "display_name": "Ezinne",
+    "full_name": "Microsoft Ezinne Online (Natural) - English (Nigeria)",
+    "locale": "en-NG",
+    "base_language": "English",
+    "accent_label": "Nigerian",
+    "region": "Nigeria",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-PH-JamesNeural",
+    "short_name": "en-PH-JamesNeural",
+    "display_name": "James",
+    "full_name": "Microsoft James Online (Natural) - English (Philippines)",
+    "locale": "en-PH",
+    "base_language": "English",
+    "accent_label": "Filipino",
+    "region": "Philippines",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-PH-RosaNeural",
+    "short_name": "en-PH-RosaNeural",
+    "display_name": "Rosa",
+    "full_name": "Microsoft Rosa Online (Natural) - English (Philippines)",
+    "locale": "en-PH",
+    "base_language": "English",
+    "accent_label": "Filipino",
+    "region": "Philippines",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-AvaNeural",
+    "short_name": "en-US-AvaNeural",
+    "display_name": "Ava",
+    "full_name": "Microsoft Ava Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.8,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Expressive",
+      "Caring",
+      "Pleasant",
+      "Friendly"
+    ],
+    "personality_tags": [
+      "expressive",
+      "conversational",
+      "pleasant",
+      "approachable",
+      "warm",
+      "caring"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-AndrewNeural",
+    "short_name": "en-US-AndrewNeural",
+    "display_name": "Andrew",
+    "full_name": "Microsoft Andrew Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.75,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Warm",
+      "Confident",
+      "Authentic",
+      "Honest"
+    ],
+    "personality_tags": [
+      "authentic",
+      "honest",
+      "warm",
+      "confident"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.7,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-EmmaNeural",
+    "short_name": "en-US-EmmaNeural",
+    "display_name": "Emma",
+    "full_name": "Microsoft Emma Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.8,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Cheerful",
+      "Clear",
+      "Conversational"
+    ],
+    "personality_tags": [
+      "clear",
+      "conversational",
+      "bright",
+      "happy",
+      "child-friendly"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.85,
+    "recommended_tags": [
+      "dialogue",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-BrianNeural",
+    "short_name": "en-US-BrianNeural",
+    "display_name": "Brian",
+    "full_name": "Microsoft Brian Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.75,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Approachable",
+      "Casual",
+      "Sincere"
+    ],
+    "personality_tags": [
+      "approachable",
+      "sincere",
+      "casual"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-SG-LunaNeural",
+    "short_name": "en-SG-LunaNeural",
+    "display_name": "Luna",
+    "full_name": "Microsoft Luna Online (Natural) - English (Singapore)",
+    "locale": "en-SG",
+    "base_language": "English",
+    "accent_label": "Singaporean",
+    "region": "Singapore",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-SG-WayneNeural",
+    "short_name": "en-SG-WayneNeural",
+    "display_name": "Wayne",
+    "full_name": "Microsoft Wayne Online (Natural) - English (Singapore)",
+    "locale": "en-SG",
+    "base_language": "English",
+    "accent_label": "Singaporean",
+    "region": "Singapore",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-ZA-LeahNeural",
+    "short_name": "en-ZA-LeahNeural",
+    "display_name": "Leah",
+    "full_name": "Microsoft Leah Online (Natural) - English (South Africa)",
+    "locale": "en-ZA",
+    "base_language": "English",
+    "accent_label": "South African",
+    "region": "South Africa",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-ZA-LukeNeural",
+    "short_name": "en-ZA-LukeNeural",
+    "display_name": "Luke",
+    "full_name": "Microsoft Luke Online (Natural) - English (South Africa)",
+    "locale": "en-ZA",
+    "base_language": "English",
+    "accent_label": "South African",
+    "region": "South Africa",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-TZ-ElimuNeural",
+    "short_name": "en-TZ-ElimuNeural",
+    "display_name": "Elimu",
+    "full_name": "Microsoft Elimu Online (Natural) - English (Tanzania)",
+    "locale": "en-TZ",
+    "base_language": "English",
+    "accent_label": "Tanzanian",
+    "region": "Tanzania",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-TZ-ImaniNeural",
+    "short_name": "en-TZ-ImaniNeural",
+    "display_name": "Imani",
+    "full_name": "Microsoft Imani Online (Natural) - English (Tanzania)",
+    "locale": "en-TZ",
+    "base_language": "English",
+    "accent_label": "Tanzanian",
+    "region": "Tanzania",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-GB-LibbyNeural",
+    "short_name": "en-GB-LibbyNeural",
+    "display_name": "Libby",
+    "full_name": "Microsoft Libby Online (Natural) - English (United Kingdom)",
+    "locale": "en-GB",
+    "base_language": "English",
+    "accent_label": "British",
+    "region": "United Kingdom",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-GB-MaisieNeural",
+    "short_name": "en-GB-MaisieNeural",
+    "display_name": "Maisie",
+    "full_name": "Microsoft Maisie Online (Natural) - English (United Kingdom)",
+    "locale": "en-GB",
+    "base_language": "English",
+    "accent_label": "British",
+    "region": "United Kingdom",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-GB-RyanNeural",
+    "short_name": "en-GB-RyanNeural",
+    "display_name": "Ryan",
+    "full_name": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+    "locale": "en-GB",
+    "base_language": "English",
+    "accent_label": "British",
+    "region": "United Kingdom",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-GB-SoniaNeural",
+    "short_name": "en-GB-SoniaNeural",
+    "display_name": "Sonia",
+    "full_name": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
+    "locale": "en-GB",
+    "base_language": "English",
+    "accent_label": "British",
+    "region": "United Kingdom",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-GB-ThomasNeural",
+    "short_name": "en-GB-ThomasNeural",
+    "display_name": "Thomas",
+    "full_name": "Microsoft Thomas Online (Natural) - English (United Kingdom)",
+    "locale": "en-GB",
+    "base_language": "English",
+    "accent_label": "British",
+    "region": "United Kingdom",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Positive"
+    ],
+    "personality_tags": [
+      "conversational",
+      "upbeat",
+      "approachable",
+      "encouraging",
+      "warm"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "male",
+      "versatile",
+      "character",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-AnaNeural",
+    "short_name": "en-US-AnaNeural",
+    "display_name": "Ana",
+    "full_name": "Microsoft Ana Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "child",
+    "age_confidence": 0.9,
+    "child_like": true,
+    "content_categories": [
+      "Cartoon",
+      "Conversation"
+    ],
+    "personalities": [
+      "Cute"
+    ],
+    "personality_tags": [
+      "cute"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "children",
+      "female",
+      "english",
+      "kids-content"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-AndrewMultilingualNeural",
+    "short_name": "en-US-AndrewMultilingualNeural",
+    "display_name": "AndrewMultilingual",
+    "full_name": "Microsoft AndrewMultilingual Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.85,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Warm",
+      "Confident",
+      "Authentic",
+      "Honest"
+    ],
+    "personality_tags": [
+      "authentic",
+      "honest",
+      "warm",
+      "confident"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-AriaNeural",
+    "short_name": "en-US-AriaNeural",
+    "display_name": "Aria",
+    "full_name": "Microsoft Aria Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.8,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Positive",
+      "Confident"
+    ],
+    "personality_tags": [
+      "encouraging",
+      "confident",
+      "upbeat"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-AvaMultilingualNeural",
+    "short_name": "en-US-AvaMultilingualNeural",
+    "display_name": "AvaMultilingual",
+    "full_name": "Microsoft AvaMultilingual Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.85,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Expressive",
+      "Caring",
+      "Pleasant",
+      "Friendly"
+    ],
+    "personality_tags": [
+      "expressive",
+      "conversational",
+      "pleasant",
+      "approachable",
+      "warm",
+      "caring"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-BrianMultilingualNeural",
+    "short_name": "en-US-BrianMultilingualNeural",
+    "display_name": "BrianMultilingual",
+    "full_name": "Microsoft BrianMultilingual Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.85,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Approachable",
+      "Casual",
+      "Sincere"
+    ],
+    "personality_tags": [
+      "approachable",
+      "sincere",
+      "casual"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-ChristopherNeural",
+    "short_name": "en-US-ChristopherNeural",
+    "display_name": "Christopher",
+    "full_name": "Microsoft Christopher Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.6,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Reliable",
+      "Authority"
+    ],
+    "personality_tags": [
+      "authority",
+      "reliable"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-EmmaMultilingualNeural",
+    "short_name": "en-US-EmmaMultilingualNeural",
+    "display_name": "EmmaMultilingual",
+    "full_name": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.85,
+    "child_like": false,
+    "content_categories": [
+      "Conversation",
+      "Copilot"
+    ],
+    "personalities": [
+      "Cheerful",
+      "Clear",
+      "Conversational"
+    ],
+    "personality_tags": [
+      "clear",
+      "conversational",
+      "bright",
+      "happy",
+      "child-friendly"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-EricNeural",
+    "short_name": "en-US-EricNeural",
+    "display_name": "Eric",
+    "full_name": "Microsoft Eric Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.75,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Rational"
+    ],
+    "personality_tags": [
+      "rational"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-GuyNeural",
+    "short_name": "en-US-GuyNeural",
+    "display_name": "Guy",
+    "full_name": "Microsoft Guy Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.8,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Passion"
+    ],
+    "personality_tags": [
+      "passion"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-JennyNeural",
+    "short_name": "en-US-JennyNeural",
+    "display_name": "Jenny",
+    "full_name": "Microsoft Jenny Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.85,
+    "child_like": false,
+    "content_categories": [
+      "General"
+    ],
+    "personalities": [
+      "Friendly",
+      "Considerate",
+      "Comfort"
+    ],
+    "personality_tags": [
+      "comfort",
+      "conversational",
+      "approachable",
+      "considerate",
+      "warm"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.85,
+    "recommended_tags": [
+      "dialogue",
+      "versatile",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-MichelleNeural",
+    "short_name": "en-US-MichelleNeural",
+    "display_name": "Michelle",
+    "full_name": "Microsoft Michelle Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Female",
+    "age_bucket": "adult",
+    "age_confidence": 0.8,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Friendly",
+      "Pleasant"
+    ],
+    "personality_tags": [
+      "approachable",
+      "conversational",
+      "warm",
+      "pleasant"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.65,
+    "recommended_tags": [
+      "dialogue",
+      "character",
+      "female",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-RogerNeural",
+    "short_name": "en-US-RogerNeural",
+    "display_name": "Roger",
+    "full_name": "Microsoft Roger Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.7,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Lively"
+    ],
+    "personality_tags": [
+      "lively"
+    ],
+    "narrator_fit_score": 0.4,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  },
+  {
+    "voice_id": "en-US-SteffanNeural",
+    "short_name": "en-US-SteffanNeural",
+    "display_name": "Steffan",
+    "full_name": "Microsoft Steffan Online (Natural) - English (United States)",
+    "locale": "en-US",
+    "base_language": "English",
+    "accent_label": "American",
+    "region": "United States",
+    "gender": "Male",
+    "age_bucket": "adult",
+    "age_confidence": 0.7,
+    "child_like": false,
+    "content_categories": [
+      "News",
+      "Novel"
+    ],
+    "personalities": [
+      "Rational"
+    ],
+    "personality_tags": [
+      "rational"
+    ],
+    "narrator_fit_score": 0.65,
+    "dialogue_fit_score": 0.5,
+    "recommended_tags": [
+      "male",
+      "english"
+    ],
+    "suggested_codec": "audio-24khz-48kbitrate-mono-mp3",
+    "status": "GA"
+  }
+]

@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  audiobook-app:
+    build: .
+    container_name: scripts-to-audiobook
+    ports:
+      - "5000:5000"  # Frontend
+      - "8000:8000"  # Backend API
+    volumes:
+      # Persist generated audio files and database
+      - ./data:/app/data
+      # Persist logs
+      - ./logs:/app/logs
+      # Mount samples for easy access
+      - ./samples:/app/samples:ro
+      # Mount .env file for credentials (required)
+      - ./.env:/app/.env:ro
+    environment:
+      - NODE_ENV=production
+      - PORT=5000
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
